@@ -1,4 +1,4 @@
-package com.lee.design_pattern.Singleton;
+package com.lee.design_pattern.singleton;
 
 public class Singleton {
 

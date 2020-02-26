@@ -1,8 +1,8 @@
-package com.lee.design_pattern;
+package com.lee.design_pattern.singleton;
 
-import com.lee.design_pattern.Singleton.Singleton;
+import com.lee.design_pattern.singleton.Singleton;
 
-public class Main {
+public class TestSingleton {
 
     public static void main(String[] args) {
 
